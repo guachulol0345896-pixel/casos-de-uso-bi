@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.venv/
+scripts/fact_ventas_limpio.csv
